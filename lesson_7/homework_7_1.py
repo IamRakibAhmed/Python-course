@@ -78,17 +78,17 @@ def list_to_string(list9):
 
 # Given a list of numbers in list_10 and a number number_2, write count_items_list function which will count number of
 # occurrences of number_2 in the given list
-list_10 = [1, 2, 3, 1, 1, 1, 2, 3, 4]
-number_2 = 3
-
-def count_items_list(array_10, number2):
-    pass
+# list_10 = [1, 2, 3, 1, 1, 1, 2, 3, 4]
+# number_2 = 3
+#
+# def count_items_list(array_10, number2):
+#     pass
 
 
 # Given a list of numbers, write a function even_items_list to return new list which include all even numbers in
 # given list.
-list_11 = [1, 2, 3, 1, 1, 1, 2, 3, 4]
-
-def even_items_list(array_11):
-    pass
+# list_11 = [1, 2, 3, 1, 1, 1, 2, 3, 4]
+#
+# def even_items_list(array_11):
+#     pass
 
