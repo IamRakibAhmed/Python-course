@@ -24,8 +24,8 @@ def function_1(number):
 # Your function temerature_convertor gets the temperature in Fahrenheit, convert it to Celsius and return.
 # Formula (32°F − 32) × 5/9 = 0°C
 
-def temerature_convertor(fahrenheit_degree):
-    pass
+# def temerature_convertor(fahrenheit_degree):
+#     pass
 
 
 # Taxi Fare
@@ -33,8 +33,8 @@ def temerature_convertor(fahrenheit_degree):
 # Write a function that takes the distance travelled (in kilometers) as its only parameter and returns the total fare
 # as its only result rounded by 2 digits. Write a program that demonstrates the function.
 
-def taxi_fare(distance):
-    pass
+# def taxi_fare(distance):
+#     pass
 
 # examples of usage:
 # taxi_fare(10) #21.86
